@@ -58,9 +58,9 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#intro">Index</a></li>
+                        <li><a href="index.aspx">Index</a></li>
                         <li><a href="Colegios.aspx">Colegios</a></li>
-                        <li><a href="udb.aspx">UDB</a></li>
+                        <li><a href="Udb.aspx">UDB</a></li>
                         <li><a href="Periodicos.aspx">Periodicos</a></li>
                         <li><a href="buscadores.aspx">Buscadores</a></li>
                     </ul>
@@ -71,7 +71,7 @@
         </nav>
 
         <!-- Section: intro -->
-        <section id="intro" class="intro">
+        <section id="intro" class="intro" style="padding-bottom:0;">
             <div class="intro-content">
                 <div class="container">
                     <div class="row">
@@ -89,9 +89,9 @@
                 </div>
             </div>
         </section>
-        <footer>
+        <footer style="padding:0;">
 
-            <div class="sub-footer">
+            <div class="sub-footer" style="margin:0;">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6 col-md-6 col-lg-6">
